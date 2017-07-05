@@ -1,2 +1,2 @@
 <h1 style="font-family:verdana;">About Me</h1>
-<p> My name is Estephania Martinez and I am a 17 year old from Chicago, Illinois. I am the oldest of three and am in the Girls Who Code Summer Immersion Program, where I am currently learning how to code.</p>
+<p> My name is Estephania Martinez and I am a 17 year old from Chicago, Illinois. I am the oldest of three and am in the Girls Who Code Summer Immersion Program, where I am currently learning how to code. In my family we are sort of weird in a way because we are all into cars and nothing else matters but "Familia" also known as Family</p>
